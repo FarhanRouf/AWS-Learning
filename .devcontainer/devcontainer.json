@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {"ghcr.io/devcontainers/features/aws-cli:1": {}},
+  "features": {"ghcr.io/devcontainers/features/aws-cli:1": {} , "ghcr.io/devcontainers/features/powershell:1": {}},
   "postCreateCommand":"aws --version",
   "containerEnv": {"AWS_CLI_AUTO_PROMPT": "on-partial"}
 }
