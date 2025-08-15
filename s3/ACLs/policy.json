@@ -1,0 +1,16 @@
+{
+  "Owner": {
+    "ID": "e8ce5c5440c2b46e02959d8ddfe36e2271470f82207773fa0fa9b83a8ca0ff48",
+    "DisplayName": "Farhan Faravi Rouf"
+  },
+  "Grants": [
+    {
+      "Grantee": {
+        "Type": "CanonicalUser",
+        "ID": "6bd58fbced4725c587162c5e5957fa3a3dc9b3601deb70a27fee0649ba33de61",
+        "DisplayName": "FarhanFaravi"
+      },
+      "Permission": "FULL_CONTROL"
+    }
+  ]
+}
